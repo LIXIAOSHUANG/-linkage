@@ -1,0 +1,20 @@
+*{
+	margin:0;
+	padding:0;
+}
+.select{
+	font-size: 20px;
+    height: 37px;
+    width: 160px;
+    line-height: 40px;
+	}
+.sel-lev{
+	width: 640px;
+    height: 200px;
+    position: absolute;
+    left: 50%;
+    margin-left: -320px;
+    top: 50%;
+    margin-top: -100px;
+	}
+	
